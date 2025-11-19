@@ -20,10 +20,6 @@ Gosto de explorar novas ferramentas, arquiteturas modernas e tudo que possa elev
 Sempre buscando aprender mais, testar novas ideias e melhorar como profissional.
 
 </div>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-     width="220px" alt="computer" />
-
 </div>
 
 ---
