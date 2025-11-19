@@ -62,7 +62,7 @@ Tecnologias: `React`, `JavaScript`, `TypeScript`, `Node.js`, `SQL`
 ---
 
 > #### **Hora de Codar**
-Tecnologias: `HTML5`, `CSS3`, `PHP`, `MySQL`, `Jquery`, `Bootstrap`, `Typescript`  
+Tecnologias: `HTML5`, `CSS3`, `PHP`, `MySQL`, `Jquery`, `Bootstrap`
 ---
 
 > #### **Rocketseat**
@@ -100,10 +100,6 @@ Tecnologias: `Java`, `SpringBoot`, `Postman`, `Python`, `Django`, `MQTT`
 
 <a href="https://www.linkedin.com/in/gabriel-oliveira-106906219/">
   <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/oligabriel._/">
-  <img src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
