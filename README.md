@@ -1,19 +1,16 @@
-<!-- Banner Superior -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="computer"/>
-  
-  <h1 style="color:#fff;">Gabriel Oliveira</h1>
-  <h3 style="color:#9f9f9f;">Full-Stack Developer • Creating digital experiences</h3>
-</div>
+<!-- SOBRE MIM COM IMAGEM À DIREITA -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
----
+<div style="max-width: 60%;">
 
-# 🌑 Sobre Mim
+# 🌑 Gabriel Oliveira
+
+### Full-Stack Developer • Creating digital experiences
 
 Sou **Gabriel Oliveira**, um desenvolvedor Full-Stack apaixonado por tecnologia, criação de sistemas práticos e soluções limpas.  
 Gosto de explorar novas ferramentas, arquiteturas modernas e tudo que possa elevar a qualidade dos meus projetos.
 
-💡 **Interesses atuais**  
+💡 **Interesses atuais**
 - Backend com Node.js, PHP e APIs  
 - Frontend limpo e eficiente  
 - Estruturas escaláveis e boas práticas  
@@ -21,6 +18,13 @@ Gosto de explorar novas ferramentas, arquiteturas modernas e tudo que possa elev
 - Estudos contínuos de tecnologias modernas  
 
 Sempre buscando aprender mais, testar novas ideias e melhorar como profissional.
+
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+     width="220px" alt="computer" />
+
+</div>
 
 ---
 
@@ -46,7 +50,7 @@ Sempre buscando aprender mais, testar novas ideias e melhorar como profissional.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img src="httpsillicons.dev/icons?i=phpstorm" height="40" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" />
@@ -57,19 +61,19 @@ Sempre buscando aprender mais, testar novas ideias e melhorar como profissional.
 
 # 🎓 Certificações
 
-> #### **Dev Samurai – Full-Stack**
+> #### **Dev Samurai – Full-Stack**  
 Tecnologias: `React`, `JavaScript`, `TypeScript`, `Node.js`, `SQL`  
 ---
 
-> #### **Hora de Codar**
-Tecnologias: `HTML5`, `CSS3`, `PHP`, `MySQL`, `Jquery`, `Bootstrap`
+> #### **Hora de Codar**  
+Tecnologias: `HTML5`, `CSS3`, `PHP`, `MySQL`, `Jquery`, `Bootstrap`  
 ---
 
-> #### **Rocketseat**
+> #### **Rocketseat**  
 Tecnologias: `Java`, `SpringBoot`, `APIRest`, `Insomnia`  
 ---
 
-> #### **FEPI – Centro Universitário de Itajubá**
+> #### **FEPI – Centro Universitário de Itajubá**  
 Tecnologias: `Java`, `SpringBoot`, `Postman`, `Python`, `Django`, `MQTT`  
 ---
 
