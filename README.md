@@ -1,161 +1,91 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+# 👋 Olá, eu sou o Gabriel Oliveira!
 
-  - (PT-BR)
-Olá bem-vindo(a) ao meu Github, me chamo Gabriel Oliveira sou Developer Full-Stack da CVS Sistemas Ltda.
+Sou um desenvolvedor Full-Stack apaixonado por criar soluções eficientes, bem estruturadas e escaláveis.  
+Gosto de trabalhar tanto no **backend**, onde posso lidar com lógica, APIs e bancos de dados, quanto no **frontend**, criando interfaces funcionais e objetivas.
 
-  - (ENG)
-Hello, welcome to my Github, my name is Gabriel Oliveira, I'm a Full-Stack Developer at CVS Sistemas Ltda.
-</p>
+Atualmente estudo e desenvolvo projetos focados em:
+- 🚀 Arquitetura de software e boas práticas
+- 👨‍💻 Desenvolvimento web full-stack
+- 🧠 Aprendizado contínuo em tecnologias modernas
+- 🤖 Automação de processos e integração entre sistemas
 
-<p align="left">
-  Technologies: <strong>PHP, JavaScript, Python, TypeScript, Django, MySQL...</strong>
-</p>
+Também gosto de explorar novas ferramentas, frameworks e formas de melhorar meu fluxo de trabalho.
 
-<p align="left">
-  Tools: <strong>Visual Studio Code, Figma, Photoshop, Git, Github, TortoiseGit, WampServer, XAMPP...</strong>
-</p>
+---
 
-<p align="left">
-
-  - (PT-BR) Para falar comigo entre em contato pelo meu instagram.
-
-  - (ENG) To speak to me, contact me on my Instagram.
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-106906219/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloli-/" /></a>
-
-  <a href="https://www.instagram.com/oligabriel._/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/oligabriel._/"/></a>
-</p>  
-
-<hr>
-
-### 💻 Technologies and tools:
+## 🧩 Tecnologias & Libs
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="30"/>
+  <img src="https://skillicons.dev/icons?i=express" height="30"/>
+  <img src="https://skillicons.dev/icons?i=php" height="30"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
+  <img src="https://skillicons.dev/icons?i=jquery" height="30"/>
+  <img src="https://skillicons.dev/icons?i=composer" height="30"/>
 </div>
 
-###
+---
+
+## 🛠 Ferramentas & IDEs
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30"/>
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git" height="30"/>
+  <img src="https://skillicons.dev/icons?i=github" height="30"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30"/>
+  <img src="https://skillicons.dev/icons?i=thunderclient" height="30"/>
 </div>
 
+---
 
-<hr>
+## 📜 Certificações
 
-### Work experience
-Recent work experience:
+### Dev Samurai – Full-Stack
+Tecnologias: `React`, `JavaScript`, `TypeScript`, `Node.js`, `SQL`  
+---
 
-[<img align="left" height="75px" width="100px" alt="cvs" src="https://www.mentorar.com.br/wp-content/uploads/2016/07/logo_cliente2.png"/>](https://cvssistemas.com.br/)
+### Hora de Codar  
+Tecnologias: `HTML5`, `CSS3`, `PHP`, `MySQL`, `Jquery`, `Bootstrap`, `Typescript`  
+---
 
-**Full-Stack Developer (Jr. Developer)** \
-[**CVS**](https://cvssistemas.com.br/) • Start: Mar 2022 \
-Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`,`HTML5`,`CSS3`,`Jquery`,`Bootstrap`\
-<br/>
+### Rocketseat  
+Tecnologias: `Java`, `SpringBoot`, `APIRest`, `Insomnia`  
+---
 
-<hr>
+### FEPI – Centro Universitário de Itajubá  
+Tecnologias: `Java`, `SpringBoot`, `Postman`, `Python`, `Django`, `MQTT`  
+---
 
-### Certifications
+## 📊 GitHub Stats
 
-[<img align="left" height="70px" width="135px" alt="devSamurai" src="https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg"/>](https://class.devsamurai.com.br/)
+![](https://github-readme-stats.vercel.app/api?username=aieff&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aieff&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aieff&theme=dark&hide_border=false&layout=compact)
 
-**Dev Samurai (Full-Stack)** \
-[**Dev Samurai**](https://class.devsamurai.com.br/) •
-Languages ​​& Technologies: `React`, `JavaScript`, `TypeScript`,`Node.js`, `Sql`\
-<br>
-<hr>
+---
 
-[<img align="left" height="70px" width="300px" alt="horadecodar" src="https://horadecodar.com.br/wp-content/uploads/2022/11/cropped-logo.webp"/>](https://horadecodar.com.br/)
-
-**Hora de Codar** \
-[**Hora de Codar**](https://horadecodar.com.br/) • 
-Languages ​​& Technologies: `HTML5`, `CSS3`, `PHP`,`MySQL`, `Jquery`, `Bootstrap`,`Typescript`\
-<br>
-<hr>
-
-[<img align="left" height="70px" width="70px" alt="rocketseat" src="https://yt3.googleusercontent.com/ytc/APkrFKZrGqrhoi-8bgGjHGvB9LPlACOM7v_LS1SwaoIQyA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.rocketseat.com.br/)
-
-**Rocketseat** \
-[**Rocketseat**](https://www.rocketseat.com.br/) • 
-Languages ​​& Technologies: `Java`, `SpringBoot`, `APIRest`,`APIDog`, `Insomnia`\
-<br>
-<hr>
-
-<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.blocodourso.com.br/assets/images/patrocinio/6-FEPI.png"/>
-
-**Analysis and systems development** \
-[**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) • 
-Languages ​​& Technologies: `Java`, `SpringBoot`, `APIRest`,`Postman`, `Python`, `Django`, `MQTT`, `Python`, `...and much more`\
-<br>
-<hr>
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aieff&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aieff&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aieff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<hr>
-
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+## 🌐 Conecte-se comigo
+<a href="https://www.linkedin.com/in/gabriel-oliveira-106906219/">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/oligabriel._/">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white">
+</a>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=aieff&icon=0&color=0)](https://visitcount.itsvg.in)
