@@ -73,7 +73,7 @@ Tecnologias: `Java`, `SpringBoot`, `APIRest`, `Insomnia`
 Tecnologias: `Java`, `SpringBoot`, `Postman`, `Python`, `Django`, `MQTT`  
 ---
 
-# 📊 Stats (Dark Mode)
+# 📊 Stats
 
 <div align="center">
 
