@@ -5,7 +5,7 @@
 
 # 🌑 Gabriel Oliveira
 
-### Full-Stack Developer • Creating digital experiences
+### Full-Stack Developer
 
 Sou **Gabriel Oliveira**, um desenvolvedor Full-Stack apaixonado por tecnologia, criação de sistemas práticos e soluções limpas.  
 Gosto de explorar novas ferramentas, arquiteturas modernas e tudo que possa elevar a qualidade dos meus projetos.
